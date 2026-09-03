@@ -1,3 +1,5 @@
+![SBS 依赖内部化英文界面](docs/screenshot-en.png)
+
 # SBS 依赖内部化插件 1.7.0
 
 [中文](README_zh.md) | [English](README.md)
