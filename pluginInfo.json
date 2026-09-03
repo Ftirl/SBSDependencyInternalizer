@@ -1,0 +1,7 @@
+{
+  "metadata_format_version": 1,
+  "name": "SBSDependencyInternalizer",
+  "version": "1.7.0",
+  "min_designer_version": "16.0",
+  "platform": "any"
+}
