@@ -1,3 +1,5 @@
+![SBS Dependency Internalizer English interface](docs/screenshot-en.png)
+
 # SBS Dependency Internalizer
 
 [English](README.md) | [中文](README_zh.md)
